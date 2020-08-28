@@ -1,0 +1,13 @@
+git clone https://github.com/JustinChon5546/Learning-Web-Development.git
+
+
+Pushing to GitHub: 
+git add .
+git commit -m "whatever message you want"
+git push
+
+Pulling from GitHub:
+git pull
+
+Other:
+git status 
