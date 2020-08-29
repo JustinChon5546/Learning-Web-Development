@@ -5,6 +5,8 @@ Pushing to GitHub:
 git add .
 git commit -m "whatever message you want"
 git push
+(first time pushing)
+git push -u origin master
 
 Pulling from GitHub:
 git pull
